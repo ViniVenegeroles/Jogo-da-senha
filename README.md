@@ -3,11 +3,9 @@
 Projeto acadêmico desenvolvido em Java (CLI) como exercício de lógica de programação.
 
 ## 📌 Descrição
-O jogador tem **10 tentativas** para adivinhar uma senha de **4 dígitos**, onde cada dígito varia de **1 a 6**.
-
-A cada tentativa, o programa informa:
-- Quantos dígitos estão na **posição correta**
-- Quantos dígitos estão **corretos, mas em posições diferentes**
+Pequeno jogo em linha de comando em Java onde o jogador tem 10 tentativas para adivinhar uma senha de 4 dígitos (cada dígito de 1 a 6). A cada tentativa o jogo informa:
+- quantos dígitos estão na posição correta;
+- quantos dígitos existem na senha mas em posição diferente (deslocados).
 
 - ## Requisitos
 - Java JDK 11+ (ou outra versão Java instalada)
