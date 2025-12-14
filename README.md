@@ -11,7 +11,7 @@ A cada tentativa, o programa informa:
 
 - ## Requisitos
 - Java JDK 11+ (ou outra versão Java instalada)
-- Opcional: IntelliJ IDEA (você já usa)
+- Opcional: IntelliJ IDEA
 
 - ## Como rodar no IntelliJ
 1. Abra o IntelliJ e crie um novo projeto Java (ou abra a pasta do projeto).
